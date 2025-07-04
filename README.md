@@ -57,7 +57,7 @@ Warna background dominan: coklat tua di bagian header dan kuning muda di bagian 
 Gaya layout: Galeri dengan grid 3 kolom (3 gambar sejajar secara horizontal)
 ![Screenshot (199)](https://github.com/user-attachments/assets/8b775d36-6732-41b0-abd7-f53c3de8c5f1)
 Halaman about
-agar pengunjung mengetahui tentang pembuat wedsite
+agar pengunjung mengetahui tentang pembuat website
 ![Screenshot (200)](https://github.com/user-attachments/assets/7b61741b-0309-47a5-be12-5cbbe30a4b89)
 Halaman Admin
 Halaman ini memiliki tampilan yang lebih sederhana dan fungsional, khas halaman administrasi. Latar belakang halaman ini didominasi warna krem atau kuning muda yang lembut.
@@ -80,7 +80,7 @@ Kotak Kedua (Gallery): Bertuliskan "Gallery" dengan angka 4 di bawahnya. Ini men
 Di bagian paling bawah halaman, terdapat footer sederhana dengan teks "© 2023 | Created by Tsara Dhafin". Ini adalah informasi hak cipta dan pembuat situs.
 ![Screenshot (201)](https://github.com/user-attachments/assets/b173bcd3-cdaf-4d57-a15f-78009a61990c)
 ![Screenshot (202)](https://github.com/user-attachments/assets/83407600-d4bf-4706-9a27-9c8bbb2ed52d)
-halaman unruk mengedit artikel dan menambahkan artikel
+halaman untuk mengedit artikel dan menambahkan artikel
 ![Screenshot (203)](https://github.com/user-attachments/assets/3fa92178-27be-4813-8816-fa9cdebb2825)
 ![Screenshot (204)](https://github.com/user-attachments/assets/d7db50fd-3e4a-4092-85d1-9a201ceb0d3f)
 Halaman untuk mengedit gallery, mengedit judul foto, dan halaman untuk menambahkan foto kedalam halam gallery
